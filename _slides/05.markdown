@@ -1,0 +1,4 @@
+---
+layout: post
+website:  "https://tomcrane.github.io/iiif-collector/"
+---

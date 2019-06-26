@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Image Viewer"
+type: script
+---
+<iiif-annotation annotationlist="https://dnoneill.github.io/annotate/annotations/segins-004-list.json"></iiif-annotation>

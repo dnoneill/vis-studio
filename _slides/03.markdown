@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Using Annotations of IIIF resources"
+website: "https://storiiies.cogapp.com"
+---
+
+
+<section data-background-iframe="https://storiiies.cogapp.com" data-background-interactive>
+</section>

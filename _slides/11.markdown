@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Image Viewer"
+type: script
+---
+<iiif-annotation annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"></iiif-annotation>
+
+<style>
+.annotation {
+	color: black!important;
+}
+</style>

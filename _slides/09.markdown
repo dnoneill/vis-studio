@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Image Viewer"
+type: script
+---
+<script src="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.js"></script>
+<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.css">
+<iiif-annotation annotationurl="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotation1.json"></iiif-annotation>
