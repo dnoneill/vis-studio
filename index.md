@@ -24,5 +24,6 @@ layout: reveal
 	}
 	section {
 	top: 0px!important;
+	font-size: calc(1.5vh + 1.5vh);
 	}
 </style>
