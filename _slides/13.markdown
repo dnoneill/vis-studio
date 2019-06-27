@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Image Viewer"
+title:  "Storyboard"
 type: script
 ---
-<iiif-storyboard annotationlist="https://dnoneill.github.io/annotate/annotations/ba-obj-5005-cons-overlay-list.json"></iiif-storyboard>
-
+<iiif-storyboard annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"  styling="tts:true;"></iiif-storyboard>

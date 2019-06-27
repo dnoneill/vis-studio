@@ -9,13 +9,9 @@ layout: reveal
 {% if slide.website %}
 <section data-background-iframe="{{slide.website}}" data-background-interactive>
 </section>
-{% elsif slide.type == 'script' %}
-<section>
-	{{slide.content}}
-</section>
 {% else %}
-<section data-markdown>
-## {{slide.title}}
+<section>
+	<h2>{{slide.title}}</h2>
 {{slide.content}}
 </section>
 {% endif %}

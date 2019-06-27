@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Image Viewer"
-type: script
+title:  "Development Decisions"
 ---
-<script src="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.js"></script>
-<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.css">
-<iiif-annotation annotationurl="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotation1.json"></iiif-annotation>
+*  Vue CLI to build JavaScript library; OpenSeadragon for storyboards.
+*  Support all annotation data models
+*  Support single Annotation and Annotation Lists.
+*  Annotation URL to allow for specificity and annotations not contained in a manifest.
+*  Add settings functionality to application
+

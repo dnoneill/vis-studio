@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Storyboards with Web Sockets"
+type: script
+---
+
+<video controls="" width="100%">
+  <source src="https://ncsu-libraries.github.io/iiif-annotation/videos/websockets.m4v" type="video/mp4">
+</video>

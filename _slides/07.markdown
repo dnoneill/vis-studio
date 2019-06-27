@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Development Considerations"
+title:  "Goals"
 ---
-	* W3 Web Annotations, Open Annotation, and Mirador data models
-	* Annotations vs. Annotation Lists
-	* Source: manifest or annotation?
-	* How to create annotations without institutional resources
-
+* Open source with low barrier to entry
+* Well documented
+* Dynamic
+* Allow for greater use of annotations

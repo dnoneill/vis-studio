@@ -1,4 +1,6 @@
 ---
 layout: post
-title:  "Videos for web sockets"
+title:  "Storyboard"
+type: script
 ---
+<iiif-storyboard annotationlist="https://dnoneill.github.io/annotate/annotations/14057-c0-list.json"></iiif-storyboard>

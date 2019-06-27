@@ -1,0 +1,7 @@
+---
+layout: post
+title: Future Development
+---
+
+* Annotation Editor
+* Support for more complex data models
