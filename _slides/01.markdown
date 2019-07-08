@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Annotation of IIIF Resources"
+title: 'Annotation of IIIF Resources'
 ---
 
-Niqui O'Neill
-
-NC State University Libraries
-
-Digital Technologies Development Librarian
+## Niqui O'Neill
+## NC State University Libraries
+## Digital Technologies Development Librarian

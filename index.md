@@ -4,26 +4,30 @@
 
 layout: reveal
 ---
-
 {% for slide in site.slides %}
+
 {% if slide.website %}
+
 <section data-background-iframe="{{slide.website}}" data-background-interactive>
 </section>
-{% else %}
+{% elsif slide.type == 'script' %}
 <section>
-	<h2>{{slide.title}}</h2>
+	{{slide.content}}
+</section>
+{% else %}
+<section class="center">
+	<h1>{{slide.title}}</h1>
 {{slide.content}}
 </section>
 {% endif %}
 {% endfor %}
-
 <style>
 	.iiifannotation {
 		height: 100vh;
 		overflow: auto;
 	}
 	section {
-	top: 0px!important;
 	font-size: calc(1.5vh + 1.5vh);
 	}
 </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
