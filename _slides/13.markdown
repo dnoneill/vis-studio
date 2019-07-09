@@ -3,4 +3,4 @@ layout: post
 title:  "Storyboard"
 type: script
 ---
-<iiif-storyboard annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"  styling="tts:true;"></iiif-storyboard>
+<iiif-storyboard annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"  styling="tts:true; fullpage: true;"></iiif-storyboard>

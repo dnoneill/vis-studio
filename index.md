@@ -23,11 +23,14 @@ layout: reveal
 {% endfor %}
 <style>
 	.iiifannotation {
-		height: 100vh;
+		height: 90vh;
 		overflow: auto;
 	}
+	code {
+		word-wrap: break-word!important;
+	}
 	section {
-	font-size: calc(1.5vh + 1.5vh);
+	font-size: calc(1vw + 2.5vh);
 	}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
