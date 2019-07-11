@@ -3,13 +3,5 @@ layout: post
 title:  "Storyboards with Web Sockets"
 type: script
 ---
-<section>
 <b>Please go to https://dnoneill.github.io/test-websockets/</b>
-<iiif-storyboard ws="https://intense-hamlet-45148.herokuapp.com" annotationlist="https://dnoneill.github.io/annotate/annotations/wh234bz9013-0001-list.json" styling="controller: true;"></iiif-storyboard>
-
-</section>
-<section>
-<video controls="" width="100%">
-  <source src="https://ncsu-libraries.github.io/iiif-annotation/videos/websockets.m4v" type="video/mp4">
-</video>
-</section>
+<img src="https://www.lib.ncsu.edu/sites/default/files/ImmersionWithMars.jpg">

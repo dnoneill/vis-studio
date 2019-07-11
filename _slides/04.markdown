@@ -1,4 +1,9 @@
 ---
 layout: post
-website: "https://canvas-panel.digirati.com/#/examples/fullpage?manifest=https://stephenwf.github.io/ocean-liners.json"
+title:  "Using Annotations of IIIF resources"
+website: "https://storiiies.cogapp.com"
 ---
+
+
+<section data-background-iframe="https://storiiies.cogapp.com" data-background-interactive>
+</section>

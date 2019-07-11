@@ -4,20 +4,24 @@
 
 layout: reveal
 ---
+<link rel="stylesheet" href="https://revealjs.com/css/theme/white.css" id="theme">
+
+
 {% for slide in site.slides %}
 
 {% if slide.website %}
 
-<section data-background-iframe="{{slide.website}}" data-background-interactive>
+<section>
+	{{slide.website}}
 </section>
 {% elsif slide.type == 'script' %}
 <section>
-	{{slide.content}}
+	{{slide.content | replace: "true", "false"}}
 </section>
 {% else %}
 <section class="center">
 	<h1>{{slide.title}}</h1>
-{{slide.content}}
+{{slide.content | replace: "iframe", "div" | replace: "fixed", "relative"}}
 </section>
 {% endif %}
 {% endfor %}
@@ -33,12 +37,6 @@ layout: reveal
 	}
 	section {
 	font-size: calc(1vw + 2.5vh);
-	}
-	.tagging:before {
-		background: #191919;
-	}
-	.tagging:after {
-		background: #191919;
 	}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>

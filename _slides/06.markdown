@@ -1,11 +1,4 @@
 ---
 layout: post
-title:  "Opportunities"
+website:  "https://tomcrane.github.io/iiif-collector/"
 ---
-
-* All Wikipedia Commons images can be served as IIIF images
-* WikiData has 169,141 entries with IIIF manifests listed
-* All [ContentDM images](https://researchworks.oclc.org/iiif-explorer/) (around 12,991,905 objects) are avaliable in IIIF format
-* [Biblissima](https://iiif.biblissima.fr/collections/) ~65,000 digitized manuscripts and rare books 
-* Wellcome Library
-* 58 instutions including NC State University Libraries and Duke

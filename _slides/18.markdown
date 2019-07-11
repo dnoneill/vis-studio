@@ -1,9 +1,5 @@
 ---
 layout: post
-title:  Annotations as Scholarly Resources
+title:  Annotation Servers
+website: https://dnoneill.github.io/annotate/
 ---
-
-* Choice
-* Lifecycle Information
-* **Rights**
-* Intended Audience

@@ -1,4 +1,4 @@
 ---
 layout: post
-website:  "https://tomcrane.github.io/iiif-collector/"
+website: "https://canvas-panel.digirati.com/#/examples/fullpage?manifest=https://stephenwf.github.io/ocean-liners.json"
 ---
