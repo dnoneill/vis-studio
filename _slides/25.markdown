@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Questions?"
+---
+
+## Thank you!
+
+### Links:
+* [https://github.com/ncsu-libraries/iiif-annotation](https://github.com/ncsu-libraries/iiif-annotation)
+* [https://ncsu-libraries.github.io/iiif-annotation/](https://ncsu-libraries.github.io/iiif-annotation/)
+* [https://github.com/dnoneill/annotate](https://github.com/dnoneill/annotate)
+* [https://dnoneill.github.io/annotate/](https://dnoneill.github.io/annotate/)
+* [https://peaceful-depths-13455.herokuapp.com/annoeditor](https://peaceful-depths-13455.herokuapp.com/annoeditor)
+
+### Contact Info:
+* Email: doneill@ncsu.edu
+* Twitter: [niqui_o](https://twitter.com/niqui_o)
+* GitHub: [dnoneill](https://github.com/dnoneill)

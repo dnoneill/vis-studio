@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  Annotation Servers
+title:  "Multi Storyboard"
 type: script
 ---
-
-![alt text]({{site.baseurl}}/images/annotation-servers.png "Logo Title Text 1")
+<iiif-multistoryboard annotationlists="https://ncsu-libraries.github.io/iiif-annotation/webannotations/mc00084-001-te0159-000-001-0001-list.json;https://ncsu-libraries.github.io/iiif-annotation/webannotations/ua023-015-003-bx0002-004-026-list.json" styling="fullpage: true;"></iiif-multistoryboard> 

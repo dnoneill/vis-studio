@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Future Development
+title:  "Storyboards with Web Sockets"
+type: script
 ---
-
-* Annotation Editor
-* Support for more complex data models
+<b>Please go to https://dnoneill.github.io/test-websockets/</b>
+<img src="https://www.lib.ncsu.edu/sites/default/files/ImmersionWithMars.jpg">

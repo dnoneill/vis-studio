@@ -1,5 +1,6 @@
 ---
 layout: post
-title:  Annotation Servers
-website: https://dnoneill.github.io/annotate/
+title: Range Storyboard
+type: script
 ---
+<iiif-rangestoryboard rangeurl="https://tomcrane.github.io/iiif-collector/objects/longer-article.json"></iiif-rangestoryboard>

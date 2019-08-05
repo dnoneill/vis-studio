@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Storyboards with Web Sockets"
+title:  "Storyboard"
 type: script
 ---
-<b>Please go to https://dnoneill.github.io/test-websockets/</b>
-<img src="https://www.lib.ncsu.edu/sites/default/files/ImmersionWithMars.jpg">
+<iiif-storyboard annotationlist="https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json" styling="fit: horizontal; fullpage: true"></iiif-storyboard>
