@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Development Considerations"
+title:  "Development Decisions"
 ---
-*  W3 Web Annotations, Open Annotation, and Mirador data models
-*  Annotations vs. Annotation Lists
-*  Source: manifest or annotation?
-*  How to create annotations without institutional resources
+*  Vue CLI to build JavaScript library; OpenSeadragon for storyboards.
+*  Support all annotation data models
+*  Support single Annotation and Annotation Lists.
+*  Annotation URL to allow for specificity and annotations not contained in a manifest.
+*  Add settings functionality to application
 
