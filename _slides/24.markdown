@@ -4,4 +4,5 @@ title: Future Development
 ---
 
 * Annotation Editor
-* Support for more complex data models
+* Range Editor / Stable Range Viewer
+* More complex data models
