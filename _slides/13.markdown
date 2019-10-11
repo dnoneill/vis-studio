@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Storyboard"
+title:  "Storyboards with Web Sockets"
 type: script
 ---
-<iiif-storyboard annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"  styling="tts:true; fullpage: true;"></iiif-storyboard>
+<b>Please go to https://dnoneill.github.io/test-websockets/</b>
+<video controls autoplay>
+  <source src="{{site.baseurl}}/videos/multistoryboard.m4v" type="video/mp4">
+</video>

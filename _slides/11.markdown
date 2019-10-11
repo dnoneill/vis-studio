@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Image Viewer"
+title:  "Storyboards with Web Sockets"
 type: script
 ---
-<iiif-annotation annotationlist="https://dnoneill.github.io/annotate/annotations/segins-004-list.json"></iiif-annotation>
+<b>Please go to https://dnoneill.github.io/test-websockets/</b>
+<img src="https://www.lib.ncsu.edu/sites/default/files/ImmersionWithMars.jpg">

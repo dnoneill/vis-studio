@@ -1,5 +1,0 @@
----
-layout: post
-title:  Annotation Servers
-website: https://dnoneill.github.io/annotate/
----

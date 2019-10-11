@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Range Storyboard
-type: script
+title: Future Development
 ---
-<iiif-rangestoryboard rangeurl="https://tomcrane.github.io/iiif-collector/objects/longer-article.json"></iiif-rangestoryboard>
+
+* Annotation Editor
+* More complex data models
+* Use in high tech space
+* Possible workshop

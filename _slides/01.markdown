@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Annotation of IIIF resources: Lowering barriers to entry'
+title: 'Web annotations: Lowering barriers to entry'
 ---
 
 ## Niqui O'Neill

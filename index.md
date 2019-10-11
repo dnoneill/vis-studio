@@ -4,6 +4,9 @@
 
 layout: reveal
 ---
+<script src="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.js"></script>
+<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.css">
+
 {% for slide in site.slides %}
 
 {% if slide.website %}
@@ -22,6 +25,9 @@ layout: reveal
 {% endif %}
 {% endfor %}
 <style>
+	.annotation, .imagetitle > *{
+		color: black!important;
+	}
 	.iiifannotation {
 		height: 85vh;
 		overflow: auto;

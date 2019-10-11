@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Multi Storyboard"
-type: script
+title:  Annotation Servers
+website: https://dnoneill.github.io/annotate/
 ---
-<iiif-multistoryboard annotationlists="https://ncsu-libraries.github.io/iiif-annotation/webannotations/mc00084-001-te0159-000-001-0001-list.json;https://ncsu-libraries.github.io/iiif-annotation/webannotations/ua023-015-003-bx0002-004-026-list.json" styling="fullpage: true;"></iiif-multistoryboard> 

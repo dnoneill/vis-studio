@@ -1,4 +1,5 @@
 ---
 layout: post
-website:  "https://tomcrane.github.io/iiif-collector/"
+title: Manifest
 ---
+<img src="{{site.baseurl}}/images/manifest.png">

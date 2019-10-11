@@ -1,9 +1,0 @@
----
-layout: post
-title:  Annotations as Scholarly Resources
----
-
-* Choice
-* Lifecycle Information
-* **Rights**
-* Intended Audience

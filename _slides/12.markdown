@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Image Viewer"
+title:  "Storyboards with Web Sockets"
 type: script
 ---
-<iiif-annotation annotationlist="https://ncsu-libraries.github.io/iiif-annotation/webannotations/annotationslist.json"></iiif-annotation>
-
-<style>
-.annotation {
-	color: black!important;
-}
-</style>
+<b>Please go to https://dnoneill.github.io/test-websockets/</b>
+<img src="{{site.baseurl}}/images/bayeux_vis_studio.jpg">
+<img src="{{site.baseurl}}/images/closeup_bayeux.tiff">
