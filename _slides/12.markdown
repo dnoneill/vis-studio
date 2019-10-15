@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Storyboards with Web Sockets"
-type: script
----
-<b>Please go to https://dnoneill.github.io/test-websockets/</b>
-<img src="https://www.lib.ncsu.edu/sites/default/files/ImmersionWithMars.jpg">
