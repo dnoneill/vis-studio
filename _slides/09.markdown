@@ -10,4 +10,4 @@ type:  script
   }
 </style>
 
-<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json' styling='fit: horizontal;'></iiif-storyboard>
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/4058a628-c593-463e-9736-8a821e178fee-list.json'></iiif-storyboard>
