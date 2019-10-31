@@ -1,8 +1,0 @@
----
-layout: post
-title: 'Web annotations: Lowering barriers to entry'
----
-
-## Niqui O'Neill
-## NC State University Libraries
-## Digital Technologies Development Librarian

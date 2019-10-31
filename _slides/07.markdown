@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Goals"
----
-* Open source with low barrier to entry
-* Well documented
-* Dynamic
-* Allow for greater use of annotations

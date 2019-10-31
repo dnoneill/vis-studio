@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Storyboards with Web Sockets"
-type: script
----
-<b>Please go to https://dnoneill.github.io/test-websockets/</b>
-<img src="{{site.baseurl}}/images/bayeux_vis_studio.jpg">
-<img src="{{site.baseurl}}/images/closeup_bayeux.jpg">

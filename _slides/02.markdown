@@ -1,9 +1,0 @@
----
-layout: post
-title:  Annotating
----
-<div>
-https://medium.com/digirati-ch/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34
-<br>
-<img src="{{site.baseurl}}/images/slide2.png" style="height: 70vh">
-</div>

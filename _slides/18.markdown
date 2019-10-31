@@ -1,9 +1,0 @@
----
-layout: post
-title: Future Development
----
-
-* Annotation Editor
-* More complex data models
-* Use in high tech space
-* Possible workshop

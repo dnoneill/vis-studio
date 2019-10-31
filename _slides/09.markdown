@@ -1,11 +1,6 @@
 ---
 layout: post
-title:  "Using the Library"
+type:  script
 ---
 
-```
-<script src="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.js"></script>
-```
-```
-<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.css">
-```
+<iiif-rangestoryboard rangeurl="./annos/range.json" styling="fit: horizontal"></iiif-rangestoryboard>
