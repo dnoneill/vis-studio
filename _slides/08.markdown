@@ -1,0 +1,6 @@
+---
+layout: post
+type:  script
+---
+
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/unicorn-list.json' styling='fit: horizontal;'></iiif-storyboard>
