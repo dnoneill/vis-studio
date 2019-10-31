@@ -1,0 +1,27 @@
+{
+  "@id": "https://dnoneill.github.io/annotate/ranges/range.json",
+  "@type": "sc:Range",
+  "canvases": [],
+  "contentLayer": {
+    "otherContent": [
+      {
+        "@id": "https://dnoneill.github.io/annotate/annotations/4058a628-c593-463e-9736-8a821e178fee-list.json",
+        "label": "View of Venice or de' Barbari Map"
+      },
+      {
+        "@id": "https://dnoneill.github.io/annotate/annotations/ba-obj-722-conservation-list.json",
+        "label": "John Scarlett Davis, 1804–1845, British, The Interior of the British Institution Gallery, 1829, Oil on canvas, Yale Center for British Art, B1981.25.212, Paintings and Sculpture"
+      },
+      {
+        "@id": "https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json",
+        "label": "Bayeux Tapestry"
+      },
+      {
+        "@id": "https://dnoneill.github.io/annotate/annotations/unicorn-list.json",
+        "label": "The Hunt of the Unicorn"
+      }
+    ]
+  },
+  "label": "Multiple examples for large screens",
+  "viewingDirection": "left-to-right"
+}
