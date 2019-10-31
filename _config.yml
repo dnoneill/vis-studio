@@ -17,7 +17,7 @@ title: DLF 2019 Annotation Presentation
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a presentation given by Niqui O'Neill at the 2019 DLF forum on her work at NC State University Libraries on annotation images and the various oppurtunities avaliable with the Open Source tools she has developed.
-baseurl: "/dlf-2019-annotation" # the subpath of your site, e.g. /blog
+baseurl: "/vis-studio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
