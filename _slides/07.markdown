@@ -1,0 +1,14 @@
+---
+layout: post
+type:  script
+---
+
+<style>
+  .fullcontent {
+    width: 10%;
+    font-size:40px;
+  }
+</style>
+
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json' styling='fit: horizontal;'></iiif-storyboard>
+
