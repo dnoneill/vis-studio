@@ -1,0 +1,15 @@
+---
+layout: post
+type:  script
+---
+<style>.annotation {width: 10%!important}
+.pin>:not(svg) {
+  font-size: 50%;
+  top: 0;
+  left: 0;
+}
+#previousButton {display: none!important;}
+#nextButton {display: none!important;}
+#autoRunButton {display: none!important;}
+</style>
+<iiif-storyboard annotationlist='https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/list/t1txd07gs99c_t1t5999n4598' manifesturl='https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/manifest' styling='overlaycolor: #07a7da;activecolor: #db1bcd;textposition: right;mapmarker: <i class="far fa-circle"></i>;toggleoverlay: true;'></iiif-storyboard>

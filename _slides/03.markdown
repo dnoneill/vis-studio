@@ -1,0 +1,8 @@
+---
+layout: post
+type:  script
+---
+<style>.annotation {width: 10%!important}.pin {
+  bottom: 40%;
+}</style>
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/4058a628-c593-463e-9736-8a821e178fee-list.json' styling='tagscolor: {"bridge":"#1af8c4","campo":"#e98068","demolished":"#97b7fb","standing":"#f0fd1f"};activecolor: #ffffff;textposition: right;toggleoverlay: true;fullpage:true;'></iiif-storyboard>

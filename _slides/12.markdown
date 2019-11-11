@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Storyboards with Web Sockets"
+type: script
+---
+<section>
+	<iiif-storyboard ws="https://intense-hamlet-45148.herokuapp.com" annotationlist='https://dnoneill.github.io/annotate/annotations/wh234bz9013-0001-list.json' styling='tagscolor: {"animals":"#fe0a1e","discarded_constellation":"#ffd46c","greek_mythology":"#f6f030","historical":"#82f937","zodiac":"#22c5fa"};activecolor: #ffffff;startenddisplay: info;annoview: collapse;toggleoverlay: true;controller: true;fullpage:true;'></iiif-storyboard>
+</section>
+<section>
+<video controls="" width="100%">
+  <source src="https://ncsu-libraries.github.io/iiif-annotation/videos/websockets.m4v" type="video/mp4">
+</video>
+</section>

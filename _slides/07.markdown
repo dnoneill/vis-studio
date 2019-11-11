@@ -1,14 +1,7 @@
 ---
 layout: post
-type:  script
+type: script
 ---
-
-<style>
-  .fullcontent {
-    width: 10%;
-    font-size:40px;
-  }
-</style>
-
-<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json' styling='fit: horizontal;'></iiif-storyboard>
-
+<section>
+	<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/unicorn-list.json' styling='overlaycolor: none;fit: horizontal;toggleoverlay: true;'></iiif-storyboard>
+</section>
