@@ -3,5 +3,5 @@ layout: post
 type: script
 ---
 <section>
-<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/04fbbb28-d5a7-4408-b7da-800c4e65eda3-list.json' layers='[{"label":"x-ray","xywh":"","image":"https://dlcs.io/iiif-img/3/2/8034eb5b-9c90-4471-ad68-52124232ec0c/info.json","section":"","rotation":""}]' styling='togglelayers: true;'></iiif-storyboard>
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/04fbbb28-d5a7-4408-b7da-800c4e65eda3-list.json' layers='[{"label":"x-ray","xywh":"","image":"https://dlcs.io/iiif-img/3/2/8034eb5b-9c90-4471-ad68-52124232ec0c/info.json","section":"","rotation":""}]' styling='togglelayers: true; customid: queenannotation'></iiif-storyboard>
 </section>
