@@ -3,5 +3,11 @@ layout: post
 type: script
 ---
 <section>
-	<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/unicorn-list.json' styling='overlaycolor: none;fit: horizontal;toggleoverlay: true;'></iiif-storyboard>
+	<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/unicorn-list.json' styling='overlaycolor: none;activecolor:none;fit: horizontal;toggleoverlay: true;'></iiif-storyboard>
 </section>
+
+<style>
+	.overlay > svg path:hover {
+		fill-opacity: 0.0;
+	}
+</style>
