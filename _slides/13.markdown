@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Information"
+---
+
+## Thank you!
+
+<div style="width: 50%; display: inline-block;float: left" markdown="1">
+### Links:
+* [https://ncsu-libraries.github.io/iiif-annotation/](https://ncsu-libraries.github.io/iiif-annotation/)
+* [https://dnoneill.github.io/annotate/](https://dnoneill.github.io/annotate/)
+* [https://peaceful-depths-13455.herokuapp.com/annoeditor](https://peaceful-depths-13455.herokuapp.com/annoeditor)
+</div>
+
+
+<div style="width: 50%; display: inline-block;" markdown="1">
+### Contact Info:
+* Email: doneill@ncsu.edu
+* Twitter: [niqui_o](https://twitter.com/niqui_o)
+* GitHub: [dnoneill](https://github.com/dnoneill)
+</div>
