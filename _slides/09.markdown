@@ -10,4 +10,8 @@ type: script
 	.overlay > svg path:hover {
 		fill-opacity: 0.0;
 	}
+
+	#unicorn_annotation {
+		width: 10%;
+	}
 </style>
