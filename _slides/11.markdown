@@ -2,8 +2,9 @@
 layout: post
 type: script
 ---
-<section>
-<div id="addinfo2" title="Image Information"><i>John Dee performing an experiment before Queen Elizabeth I</i> Oil painting by Henry Gillard Glindoni. From <a href="https://wellcomelibrary.org/item/b14658197#?c=0&m=0&s=0&cv=0&z=0.3874%2C-0.0182%2C0.2322%2C0.2096">Wellcome Library digtial collections</a>.</div>
+<div id="addinfo" title="Image Information"><i>John Dee performing an experiment before Queen Elizabeth I</i> Oil painting by Henry Gillard Glindoni. From <a href="https://wellcomelibrary.org/item/b14658197#?c=0&m=0&s=0&cv=0&z=0.3874%2C-0.0182%2C0.2322%2C0.2096">Wellcome Library digtial collections</a>.</div>
 
-<iiif-multistoryboard annotationlists='https://dnoneill.github.io/annotate/annotations/04fbbb28-d5a7-4408-b7da-800c4e65eda3-list.json' styling="additionalinfo:addinfo2" images='https://dlcs.io/iiif-img/3/2/8034eb5b-9c90-4471-ad68-52124232ec0c/info.json'></iiif-multistoryboard>
+<section>
+
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/04fbbb28-d5a7-4408-b7da-800c4e65eda3-list.json' layers='[{"label":"x-ray","xywh":"","image":"https://dlcs.io/iiif-img/3/2/8034eb5b-9c90-4471-ad68-52124232ec0c/info.json","section":"","rotation":""}]' styling='togglelayers: true; customid: queenannotation;additionalinfo:addinfo'></iiif-storyboard>
 </section>
