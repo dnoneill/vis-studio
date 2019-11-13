@@ -3,13 +3,16 @@ layout: post
 title:  Creating Annotations
 ---
 <div>
-<div style="width: 49%; height: 100vh; position: relative;display: inline-grid;vertical-align: top">
-<video controls="" style="margin: auto">
+<div style="width: 32%; height: 100vh; position: relative;display: inline-grid;vertical-align: top">
+<video controls="" style="margin: auto;margin-top:0px; max-height: 70vh">
   <source src="https://dnoneill.github.io/annotate/assets/videos/osdcreateannos.m4v" type="video/mp4" width="100%">
 </video>
 </div>
-<div style="width: 49%; height: 100vh; position: relative;display: inline-grid;vertical-align: top">
-<video controls="" style="margin: auto;">
+<div style="width: 32%; height: 100vh; position: relative;display: inline-grid;vertical-align: top">
+<img src="{{site.baseurl}}/images/annotation-servers.png">
+</div>
+<div style="width: 32%; height: 100vh; position: relative;display: inline-grid;vertical-align: top">
+<video controls="" style="margin: auto;margin-top:0px; max-height: 70vh">
   <source src="https://dnoneill.github.io/annotate/assets/videos/createannos.m4v" type="video/mp4" width="100%">
 </video>
 </div>
