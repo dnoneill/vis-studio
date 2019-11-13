@@ -3,3 +3,9 @@ layout: post
 type:  script
 ---
 <iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json' styling='fit: horizontal;toggleoverlay: true;textposition: right;fullpage:true;'></iiif-storyboard>
+
+<style>
+	#fullbayeux_annotation {
+		width: 10%;
+	}
+</style>
