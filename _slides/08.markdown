@@ -3,5 +3,11 @@ layout: post
 type: script
 ---
 <section>
-	<iiif-multistoryboard annotationlists='https://ncsu-libraries.github.io/iiif-annotation/webannotations/mc00084-001-te0159-000-001-0001-list.json;https://ncsu-libraries.github.io/iiif-annotation/webannotations/ua023-015-003-bx0002-004-026-list.json' styling='matchclick: true;'></iiif-multistoryboard>
+	<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/unicorn-list.json' styling='overlaycolor: none;activecolor:none;fit: horizontal;toggleoverlay: true;'></iiif-storyboard>
 </section>
+
+<style>
+	.overlay > svg path:hover {
+		fill-opacity: 0.0;
+	}
+</style>

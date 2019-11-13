@@ -2,4 +2,12 @@
 layout: post
 type:  script
 ---
-<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/fullbayeux-list.json' styling='fit: horizontal;toggleoverlay: true;textposition: right;fullpage:true;'></iiif-storyboard>
+<script id="config" type="application/json">{ "fullpage":true, "toolbarposition":"bottom", "textposition": "right"}</script>
+
+<style>
+#\34 058a628-c593-463e-9736-8a821e178fee .annotation {width: 10%!important}
+#\34 058a628-c593-463e-9736-8a821e178fee .pin {
+  bottom: 40%;
+}
+</style>
+<iiif-storyboard annotationlist='https://dnoneill.github.io/annotate/annotations/4058a628-c593-463e-9736-8a821e178fee-list.json' styling='tagscolor: {"bridge":"#1af8c4","campo":"#e98068","demolished":"#97b7fb","standing":"#f0fd1f"};activecolor: #ffffff;textposition: right;toggleoverlay: true;'></iiif-storyboard>

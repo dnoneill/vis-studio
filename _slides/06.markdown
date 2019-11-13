@@ -1,8 +1,15 @@
 ---
 layout: post
-type: script
+type:  script
 ---
-<section>
-	<style>.right {margin: 0px 5px 0px!important}</style>
-<iiif-storyboard annotationlist='https://s3.amazonaws.com/apps.harvardartmuseums.org/iiif/annotations/shotoku-lotus-sutra-annotations.json' manifesturl='https://s3.amazonaws.com/apps.harvardartmuseums.org/iiif/manifests/annotated-sutra.json' styling='overlaycolor: mediumvioletred;activecolor: mediumvioletred;fit: horizontal;toggleoverlay: true;textposition: right;'></iiif-storyboard>
-</section>
+<style>
+#t1txd07gs99c_t1t5999n4598 .pin>:not(svg) {
+  font-size: 50%;
+  top: 0;
+  left: 0;
+}
+#t1txd07gs99c_t1t5999n4598 #previousButton {display: none!important;}
+#t1txd07gs99c_t1t5999n4598 #nextButton {display: none!important;}
+#t1txd07gs99c_t1t5999n4598 #autoRunButton {display: none!important;}
+</style>
+<iiif-storyboard annotationlist='https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/list/t1txd07gs99c_t1t5999n4598' manifesturl='https://iiif.durham.ac.uk/manifests/trifle/32150/t1/m4/q7/t1m4q77fr328/manifest' styling='overlaycolor: white;activecolor: white;textposition: right;mapmarker: <i class="far fa-circle"></i>;toggleoverlay: true;hide_toolbar:true'></iiif-storyboard>
