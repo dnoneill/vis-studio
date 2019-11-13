@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  About Annotations
+title:  Creating Annotations
 ---
 <video controls="">
   <source src="https://dnoneill.github.io/annotate/assets/videos/osdcreateannos.m4v" type="video/mp4">
