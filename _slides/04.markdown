@@ -17,5 +17,10 @@ type:  script
 		display: inline-grid;
 		vertical-align: top;
 	}
+
+	.bottom_menu {
+		width: 25%!important;
+		margin-left: auto
+	}
 	
 </style>
