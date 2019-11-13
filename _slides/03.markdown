@@ -17,9 +17,3 @@ title:  Creating Annotations
 </video>
 </div>
 </div>
-
-<style>
-	.reveal .slides > section {
-		padding: 0px!important;
-	}
-</style>
