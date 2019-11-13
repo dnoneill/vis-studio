@@ -15,6 +15,7 @@ type:  script
 	#\34 058a628-c593-463e-9736-8a821e178fee-list > .annotation_container {
 		width: 12%;
 		display: inline-grid;
-		position: relative;
+		vertical-align: top;
 	}
+	
 </style>
