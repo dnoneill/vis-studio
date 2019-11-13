@@ -6,7 +6,7 @@ type:  script
 
 <style>
 #\34 058a628-c593-463e-9736-8a821e178fee .annotation {width: 10%!important}
-#\34 058a628-c593-463e-9736-8a821e178fee .pin {
+#\34 058a628-c593-463e-9736-8a821e178fee .pin > :not(svg) {
   bottom: 40%;
 }
 </style>
