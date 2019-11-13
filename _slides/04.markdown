@@ -10,6 +10,7 @@ type:  script
 		margin: 0px;
 		padding: 0px;
 		width: 100%;
+		font-size: 1rem;
 	}
 	#\34 058a628-c593-463e-9736-8a821e178fee-list > .annotation_container {
 		width: 12%;
