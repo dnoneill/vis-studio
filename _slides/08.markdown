@@ -9,5 +9,6 @@ type: script
 <style>
 	#shotoku-lotus-sutra-annotations_annotation {
 		width: 10%;
+		margin: 0px 5px 0px!important;
 	}
 </style>
