@@ -3,7 +3,6 @@ layout: post
 type: script
 ---
 <section>
-	<style>.right {margin: 0px 5px 0px!important}</style>
 <iiif-storyboard annotationlist='https://s3.amazonaws.com/apps.harvardartmuseums.org/iiif/annotations/shotoku-lotus-sutra-annotations.json' manifesturl='https://s3.amazonaws.com/apps.harvardartmuseums.org/iiif/manifests/annotated-sutra.json' styling='overlaycolor: mediumvioletred;activecolor: mediumvioletred;toggleoverlay: true;textposition: right;panorzoom:pan;'></iiif-storyboard>
 </section>
 
