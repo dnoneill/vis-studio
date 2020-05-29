@@ -6,13 +6,13 @@ type:  script
 <iiif-annotation annotationlist="https://dnoneill.github.io/annotate/annotations/4058a628-c593-463e-9736-8a821e178fee-list.json"></iiif-annotation>
 
 <style>
-	#\34 058a628-c593-463e-9736-8a821e178fee-list {
+	#\34 058a628-c593-463e-9736-8a821e178fee_imageview {
 		margin: 0px;
 		padding: 0px;
 		width: 100%;
 		font-size: 1rem;
 	}
-	#\34 058a628-c593-463e-9736-8a821e178fee-list > .annotation_container {
+	#\34 058a628-c593-463e-9736-8a821e178fee_imageview > .annotation_container {
 		width: 12%;
 		display: inline-grid;
 		vertical-align: top;
