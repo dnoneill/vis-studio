@@ -4,8 +4,8 @@
 
 layout: reveal
 ---
-<script src="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.js"></script>
-<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/iiif-annotation/dist/iiif-annotation.css">
+<script src="https://ncsu-libraries.github.io/annona/dist/annona.js"></script>
+<link rel="stylesheet" type="text/css" href="https://ncsu-libraries.github.io/annona/dist/annona.css">
 
 {% for slide in site.slides %}
 
